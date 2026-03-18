@@ -1,0 +1,14 @@
+com/jairogalvez/application/product/ProductController.class
+com/jairogalvez/MyEntityResource.class
+com/jairogalvez/infrastructure/product/ProductRepositoryImpl.class
+com/jairogalvez/domain/order/Item.class
+com/jairogalvez/domain/product/Product.class
+com/jairogalvez/domain/order/OrderRepository.class
+com/jairogalvez/domain/order/Order.class
+com/jairogalvez/infrastructure/product/ProductRepositoryBase.class
+com/jairogalvez/infrastructure/product/ProductEntity.class
+com/jairogalvez/domain/BusinessException.class
+com/jairogalvez/MyEntity.class
+com/jairogalvez/application/product/ProductDTO.class
+com/jairogalvez/GreetingResource.class
+com/jairogalvez/domain/product/ProductRepository.class
